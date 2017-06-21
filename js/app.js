@@ -40,11 +40,6 @@ var placesData = [ //an array of objects
         lng:-118.061631}
     }, 
     {
-      name: 'Hammack Activity Center',
-      location: {lat: 34.582328, 
-        lng:-118.114847}
-    },
-    {
       name: 'Madeline Court Recreation Center', 
       location: {lat:34.575309,
         lng: -118.007299}
